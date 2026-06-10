@@ -1,4 +1,5 @@
-﻿using System;
+//zadanie 3 UML 
+using System;
 using System.Collections.Generic;
 
 public class Kontakt
